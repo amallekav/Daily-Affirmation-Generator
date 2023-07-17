@@ -1,0 +1,94 @@
+/* Global styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styles */
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+/* Main content styles */
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+/* Daily affirmation section styles */
+#daily-affirmation {
+  text-align: center;
+}
+
+#affirmation-text {
+  font-size: 24px;
+  margin: 0;
+  padding: 10px;
+  background-color: #f7f7f7;
+  border: 1px solid #ccc;
+}
+
+/* Affirmation library section styles */
+#affirmation-library ul {
+  list-style: none;
+  padding: 0;
+}
+
+#affirmation-library li {
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+/* Customization options section styles */
+#customization-options {
+  text-align: center;
+}
+
+/* Reminders and notifications section styles */
+#reminders-notifications form {
+  text-align: center;
+}
+
+/* Journaling and reflection section styles */
+#journaling-reflection textarea {
+  width: 100%;
+  height: 150px;
+  padding: 10px;
+  resize: none;
+}
+
+/* Sharing and engagement section styles */
+#sharing-engagement form {
+  text-align: center;
+}
+
+/* Progress tracking section styles */
+#progress-tracking form {
+  text-align: center;
+}
+
+/* Footer styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
